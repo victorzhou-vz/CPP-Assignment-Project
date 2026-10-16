@@ -1,0 +1,12 @@
+# Exécutables et fichiers objets C++
+*.exe
+*.out
+*.o
+*.obj
+
+# Archives
+*.zip
+
+# Dossiers de compilation
+build/
+bin/
